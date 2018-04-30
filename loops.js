@@ -22,13 +22,3 @@ function whileLoop(n) {
 }
 
 
-function doWhileLoop(array)
-var maybeTrue = function(){
-  return Math.random() >= 0.5
-}{
-  do {
-    array.pop();
-    return array;
-  } while (maybeTrue);
-  return array;
-}
