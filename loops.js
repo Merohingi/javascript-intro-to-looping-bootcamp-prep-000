@@ -1,1 +1,1 @@
-for (var )
+function forLoop(array)
